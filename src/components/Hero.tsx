@@ -57,7 +57,7 @@ export const Hero: React.FC = () => {
             View Projects <ArrowRight size={18} />
           </a>
           <a
-            href="https://drive.google.com/file/d/1JJ5DNrTSPp-iun84WQawSqD0dImkhA-X/view"
+            href="https://drive.google.com/file/d/1JJ5DNrTSPp-iun84WQawSqD0dImkhA-X/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 glass rounded-xl font-semibold flex items-center gap-2 hover:bg-white/10 transition-all"
